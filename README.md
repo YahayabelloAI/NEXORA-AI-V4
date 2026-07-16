@@ -1,3 +1,9 @@
+# NEXORA AI
+
+## Day One
+
+**Version: 4.0 Stable**
+
 # 🤖 NEXORA AI
 
 ## Motto
